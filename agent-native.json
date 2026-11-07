@@ -1,0 +1,14 @@
+{
+    "doctor": {
+        "dbToolScopingDenylist": {
+            "profiles": "Scoped per viewer in every action via resolveViewer (viewerId); no org tenant exists for anonymous browser users.",
+            "scholarships": "Shared public catalogue \u2014 the same read-only list for every user; no per-user rows exist to scope.",
+            "tracked": "Scoped per viewer in every action via resolveViewer (viewerId); no org tenant exists for anonymous browser users."
+        },
+        "failOnBuild": false
+    },
+    "onboarding": {
+        "firstRun": "off"
+    },
+    "version": 1
+}
